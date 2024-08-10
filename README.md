@@ -1,5 +1,6 @@
 <h1>Sayonara o Oshiete ~Comment te Dire Adieu~</h1>
-<p style="color:rgba(255,0,0,0);">AVISO: Este jogo contém material altamente perturbador que pode ser ofensivo. Este jogo não é adequado para menores ou pessoas sensíveis.</p>
+```html
+<p style="color:rgba(255,0,0,0);">AVISO: Este jogo contém material altamente perturbador que pode ser ofensivo. Este jogo não é adequado para menores ou pessoas sensíveis.</p>```
 <br/>
 <img src="https://kikachangames.github.io/sayooshi/00.jpg">
 <br/>
