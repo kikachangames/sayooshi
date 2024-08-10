@@ -2,6 +2,8 @@
 
 ⚠️ AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.
 <br/>
+<br/>
+
 <img src="https://kikachangames.github.io/sayooshi/00.jpg">
 <br/>
 
