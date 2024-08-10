@@ -1,6 +1,6 @@
 <h1>Sayonara o Oshiete ~Comment te Dire Adieu~</h1>
 
-<p>AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.</p>
+⚠️<p>AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.</p>
 <br/>
 <img src="https://kikachangames.github.io/sayooshi/00.jpg">
 <br/>
