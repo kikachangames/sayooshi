@@ -53,7 +53,7 @@
 
 <h3>Agradecimentos</h3>
 <p><a href="https://chaosgate.team/" target="_blank">Chaos Gate Team</a></p>
-<p><a href="http://craftwork.product.co.jp/" target="_blank">CLOCKWORK</a></p>
+<p><a href="http://craftwork.product.co.jp/" target="_blank">CRAFTWORK</a></p>
 <p><a href="https://github.com/marcussacana/SiglusSceneManager" target="_blank">marcussacana</a></p>
 <p><a href="https://www.youtube.com/@Palpitando_123" target="_blank">Palpitando</a></p>
 <p><a href="https://vnx.uvnworks.com/" target="_blank">VNX+</a></p>
