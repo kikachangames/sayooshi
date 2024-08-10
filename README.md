@@ -29,7 +29,7 @@
 </ul>
 <br/>
 <h3>Lançamento</h3>
-<p>TBL.</p>
+<p>TBA.</p>
 <br/>
 
 <h3>Imagens</h3>
