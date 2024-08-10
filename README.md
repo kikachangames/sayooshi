@@ -1,7 +1,7 @@
 <h1>Sayonara o Oshiete ~Comment te Dire Adieu~</h1>
 <p>Patch Pt-Br (Siglus engine)</p>
 <br/>
-<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana.jpg">
+<img src="https://kikachangames.github.io/sayooshi/00.jpg">
 <br/>
 <br/>
 
