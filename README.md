@@ -43,7 +43,12 @@
 
 <h3>Manolo-chan</h3>
 <img src="https://kikachangames.github.io/air/manolo.png">
-<p>Líder de projeto, tradução, programação e edição de imagens.</p>
+<p>Líder de projeto, programação e edição de imagens.</p>
+<br/>
+
+<h3>Dudas</h3>
+<img src="https://kikachangames.github.io/sayooshi/dudas.png">
+<p>Tradução e revisão.</p>
 <br/>
 
 <h3>Ceuipsolon</h3>
