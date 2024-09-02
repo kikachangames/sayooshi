@@ -15,10 +15,10 @@
 <p>Hirosuke Hitomi é um professor estagiário trabalhando em uma escola feminina. Finalizar suas tarefas diárias e virar um professor efetivo é o seu objetivo. No entanto, sua mente começa a se cansar. Inquietação e pesadelos começam a atacá-lo. Uma fobia social começa a crescer e, lentamente, surge um misto de medo e desejo pelas garotas que ele encontra depois das aulas. Mesmo após o término do seu dia de trabalho, ele não consegue parar de vagar pela escola.</p>
 <br/>
 
-<h3>Progresso da tradução (12/185 - 6,49%):</h3>
+<h3>Progresso da tradução (22/185 - 11,89%):</h3>
 <ul>
     <li>Dia 1: 100%</li>
-    <li>Dia 2: 0%</li>
+    <li>Dia 2: 100%</li>
     <li>Dia 3: 0%</li>
     <li>Dia 4: 0%</li>
     <li>Dia 5: 0%</li>
@@ -71,6 +71,6 @@
 
 
 <hr>
-<p><small>Última atualização: 17/08/2024.</small></p>
+<p><small>Última atualização: 02/09/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
 
