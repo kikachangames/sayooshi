@@ -26,6 +26,8 @@
     <li>Dia 7: 0%</li>
     <li>Dia 8: 0%</li>
     <li>Dia 9: 0%</li>
+    <li>Dia 10: 0%</li>
+    <li>Dia 11: 0%</li>
 </ul>
 <br/>
 <h3>Lançamento</h3>
