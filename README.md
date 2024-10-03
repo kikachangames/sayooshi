@@ -15,7 +15,7 @@
 <p>Hirosuke Hitomi é um professor estagiário trabalhando em uma escola feminina. Finalizar suas tarefas diárias e virar um professor efetivo é o seu objetivo. No entanto, sua mente começa a se cansar. Inquietação e pesadelos começam a atacá-lo. Uma fobia social começa a crescer e, lentamente, surge um misto de medo e desejo pelas garotas que ele encontra depois das aulas. Mesmo após o término do seu dia de trabalho, ele não consegue parar de vagar pela escola.</p>
 <br/>
 
-<h3>Progresso da tradução (22/185 - 11,89%):</h3>
+<h3>Progresso da tradução (25/185 - 13,51%):</h3>
 <ul>
     <li>Dia 1: 100%</li>
     <li>Dia 2: 100%</li>
@@ -23,7 +23,7 @@
     <li>Dia 4: 0%</li>
     <li>Dia 5: 0%</li>
     <li>Dia 6: 0%</li>
-    <li>Dia 7: 0%</li>
+    <li>Dia 7: 7,14%</li>
     <li>Dia 8: 0%</li>
     <li>Dia 9: 0%</li>
     <li>Dia 10: 0%</li>
@@ -53,6 +53,11 @@
 <p>Tradução e revisão.</p>
 <br/>
 
+<h3>Alex</h3>
+<img src="https://kikachangames.github.io/sayooshi/alex.png">
+<p>Tradução e revisão.</p>
+<br/>
+
 <h3>Ceuipsolon</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
 <p>Game hacking, revisão e edição de imagens.</p>
@@ -73,6 +78,6 @@
 
 
 <hr>
-<p><small>Última atualização: 02/09/2024.</small></p>
+<p><small>Última atualização: 02/10/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
 
