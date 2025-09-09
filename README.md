@@ -64,7 +64,7 @@
 <br/>
 
 <h3>Agradecimentos</h3>
-<p><a href="https://github.com/0Mateus/" target="_blank">0Mateus</a></p>"
+<p><a href="https://github.com/0Mateus/" target="_blank">0Mateus</a></p>
 <p><a href="https://chaosgate.team/" target="_blank">Chaos Gate Team</a></p>
 <p><a href="http://craftwork.product.co.jp/" target="_blank">CRAFTWORK</a></p>
 <p><a href="https://github.com/marcussacana/SiglusSceneManager" target="_blank">marcussacana</a></p>
