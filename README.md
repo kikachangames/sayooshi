@@ -15,7 +15,7 @@
 <p>Hirosuke Hitomi é um professor estagiário trabalhando em uma escola feminina. Finalizar suas tarefas diárias e virar um professor efetivo é o seu objetivo. No entanto, sua mente começa a se cansar. Inquietação e pesadelos começam a atacá-lo. Uma fobia social começa a crescer e, lentamente, surge um misto de medo e desejo pelas garotas que ele encontra depois das aulas. Mesmo após o término do seu dia de trabalho, ele não consegue parar de vagar pela escola.</p>
 <br/>
 
-<h3>Progresso da tradução (130/185 - 70,27%):</h3>
+<h3>Progresso da tradução (131/185 - 70,81%):</h3>
 <ul>
     <li>Dia 1: 100%</li>
     <li>Dia 2: 100%</li>
@@ -25,7 +25,7 @@
     <li>Dia 6: 100%</li>
     <li>Dia 7: 100%</li>
     <li>Dia 8: 100%</li>
-    <li>Dia 9: 51,35%</li>
+    <li>Dia 9: 54,05%</li>
     <li>Dia 10: 0%</li>
     <li>Dia 11: 0%</li>
 </ul>
