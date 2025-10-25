@@ -1,4 +1,4 @@
-<h1>Sayonara o Oshiete ~Comment te Dire Adieu~</h1>
+<h1>Sayonara o Oshiete ~Ensine-me a dizer Adeus~</h1>
 
 ⚠️ AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.
 <br/>
@@ -7,7 +7,7 @@
 <img src="https://kikachangames.github.io/sayooshi/00.jpg">
 <br/>
 
-<h3>Como dizer adeus</h3>
+<h3>Como dizer adeus...</h3>
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel <a href="https://vndb.org/v1200" target="_blank">Sayonara o Oshiete ~Comment te Dire Adieu~</a>, lançada pela CRAFTWORK em 2001.</p>
 <br/>
 
@@ -15,7 +15,7 @@
 <p>Hirosuke Hitomi é um professor estagiário trabalhando em uma escola feminina. Finalizar suas tarefas diárias e virar um professor efetivo é o seu objetivo. No entanto, sua mente começa a se cansar. Inquietação e pesadelos começam a atacá-lo. Uma fobia social começa a crescer e, lentamente, surge um misto de medo e desejo pelas garotas que ele encontra depois das aulas. Mesmo após o término do seu dia de trabalho, ele não consegue parar de vagar pela escola.</p>
 <br/>
 
-<h3>Progresso da tradução (154/171 - 90,06%):</h3>
+<h3>Progresso da tradução (155/171 - 90,64%):</h3>
 <ul>
     <li>Dia 1: 100%</li>
     <li>Dia 2: 100%</li>
@@ -26,7 +26,7 @@
     <li>Dia 7: 100%</li>
     <li>Dia 8: 100%</li>
     <li>Dia 9: 100%</li>
-    <li>Dia 10: 85,71%</li>
+    <li>Dia 10: 100%</li>
     <li>Dia 11: 0%</li>
 </ul>
 <br/>
@@ -79,6 +79,6 @@
 
 
 <hr>
-<p><small>Última atualização: 19/10/2025.</small></p>
+<p><small>Última atualização: 25/10/2025.</small></p>
 <p><small>Desde 2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
 
