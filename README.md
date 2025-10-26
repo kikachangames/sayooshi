@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-<h3>Membros do projeto</h3>
+<h3>Equipe</h3>
 
 <div>
 <img src="https://kikachangames.github.io/air/manolo.png"
