@@ -1,5 +1,3 @@
-<h1>Sayonara o Oshiete ~Ensine-me a dizer Adeus~</h1>
-
 ⚠️ AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.
 <br/>
 <br/>
