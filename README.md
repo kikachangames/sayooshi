@@ -41,24 +41,41 @@
 
 <h3>Membros do projeto</h3>
 
+<div>
 <h3>Manolo-chan</h3>
-<img src="https://kikachangames.github.io/air/manolo.png">
 <p>Líder de projeto, programação e edição de imagens.</p>
-<br/>
+    <img src="https://kikachangames.github.io/air/manolo.png"
+     align="left" width="180" height="180"
+     style="object-fit:cover; border-radius:10px; margin-left:10px;">
+     <div style="clear:both;"></div>
+</div>
 
+<div>
 <h3>Dudas</h3>
-<img src="https://kikachangames.github.io/sayooshi/dudas.png">
 <p>Tradução e revisão.</p>
-<br/>
+<img src="https://kikachangames.github.io/sayooshi/dudas.png"
+     align="left" width="180" height="180"
+     style="object-fit:cover; border-radius:10px; margin-left:10px;">
+     <div style="clear:both;"></div>
+</div>
 
+<div>
 <h3>Alex</h3>
-<img src="https://kikachangames.github.io/sayooshi/alex.png">
 <p>Tradução e revisão.</p>
-<br/>
+<img src="https://kikachangames.github.io/sayooshi/alex.png"
+    align="left" width="180" height="180"
+    style="object-fit:cover; border-radius:10px; margin-left:10px;">
+    <div style="clear:both;"></div>
+</div>
 
+<div>
 <h3>Ceuipsolon</h3>
-<img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
 <p>Game hacking, revisão e edição de imagens.</p>
+    <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png"
+    align="left" width="180" height="180"
+    style="object-fit:cover; border-radius:10px; margin-left:10px;">
+    <div style="clear:both;"></div>
+</div>
 <br/>
 
 <h3>Agradecimentos</h3>
