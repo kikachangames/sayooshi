@@ -42,62 +42,50 @@
 
 <h3>Equipe</h3>
 
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <td style="width:190px; vertical-align:top;">
-      <img src="https://kikachangames.github.io/air/manolo.png"
-           width="180" height="180"
-           style="object-fit:cover; border-radius:10px;">
-    </td>
-    <td style="vertical-align:top; padding-left:10px;">
-      <h3>Manolo-chan</h3>
-      <p><b>Líder de projeto, programação e edição de imagens.</b></p>
-    </td>
-  </tr>
-</table>
+<style>
+img {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+div.equipe {
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+div.equipe img {
+  float: left;
+  margin-right: 15px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+div.equipe h3 {
+  margin-top: 0;
+}
+</style>
 
-<table style="width:100%; border-collapse:collapse; margin-top:15px;">
-  <tr>
-    <td style="width:190px; vertical-align:top;">
-      <img src="https://kikachangames.github.io/sayooshi/dudas.png"
-           width="180" height="180"
-           style="object-fit:cover; border-radius:10px;">
-    </td>
-    <td style="vertical-align:top; padding-left:10px;">
-      <h3>Dudas</h3>
-      <p><b>Tradução e revisão.</b></p>
-    </td>
-  </tr>
-</table>
+<div class="equipe">
+  <img src="https://kikachangames.github.io/air/manolo.png" width="180" height="180">
+  <h3>Manolo-chan</h3>
+  <p>Líder de projeto, programação e edição de imagens.</p>
+</div>
 
-<table style="width:100%; border-collapse:collapse; margin-top:15px;">
-  <tr>
-    <td style="width:190px; vertical-align:top;">
-      <img src="https://kikachangames.github.io/sayooshi/alex.png"
-           width="180" height="180"
-           style="object-fit:cover; border-radius:10px;">
-    </td>
-    <td style="vertical-align:top; padding-left:10px;">
-      <h3>Alex</h3>
-      <p><b>Tradução e revisão.</b></p>
-    </td>
-  </tr>
-</table>
+<div class="equipe">
+  <img src="https://kikachangames.github.io/sayooshi/dudas.png" width="180" height="180">
+  <h3>Dudas</h3>
+  <p>Tradução e revisão.</p>
+</div>
 
-<table style="width:100%; border-collapse:collapse; margin-top:15px;">
-  <tr>
-    <td style="width:190px; vertical-align:top;">
-      <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png"
-           width="180" height="180"
-           style="object-fit:cover; border-radius:10px;">
-    </td>
-    <td style="vertical-align:top; padding-left:10px;">
-      <h3>Ceuipsolon</h3>
-      <p><b>Game hacking, revisão e edição de imagens.</b></p>
-    </td>
-  </tr>
-</table>
+<div class="equipe">
+  <img src="https://kikachangames.github.io/sayooshi/alex.png" width="180" height="180">
+  <h3>Alex</h3>
+  <p>Tradução e revisão.</p>
+</div>
 
+<div class="equipe">
+  <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png" width="180" height="180">
+  <h3>Ceuipsolon</h3>
+  <p>Game hacking, revisão e edição de imagens.</p>
+</div>
 
 <br/>
 <br/>
