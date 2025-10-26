@@ -42,38 +42,38 @@
 <h3>Membros do projeto</h3>
 
 <div>
-<h3>Manolo-chan</h3>
-<p>Líder de projeto, programação e edição de imagens.</p>
-    <img src="https://kikachangames.github.io/air/manolo.png"
-     align="left" width="180" height="180"
-     style="object-fit:cover; border-radius:10px; margin-left:10px;">
-     <div style="clear:both;"></div>
-</div>
-
-<div>
-<h3>Dudas</h3>
-<p>Tradução e revisão.</p>
-<img src="https://kikachangames.github.io/sayooshi/dudas.png"
-     align="left" width="180" height="180"
-     style="object-fit:cover; border-radius:10px; margin-left:10px;">
-     <div style="clear:both;"></div>
-</div>
-
-<div>
-<h3>Alex</h3>
-<p>Tradução e revisão.</p>
-<img src="https://kikachangames.github.io/sayooshi/alex.png"
+<img src="https://kikachangames.github.io/air/manolo.png"
     align="left" width="180" height="180"
     style="object-fit:cover; border-radius:10px; margin-left:10px;">
+<h3>Manolo-chan</h3>
+<p>Líder de projeto, programação e edição de imagens.</p>
     <div style="clear:both;"></div>
 </div>
 
 <div>
-<h3>Ceuipsolon</h3>
-<p>Game hacking, revisão e edição de imagens.</p>
+<img src="https://kikachangames.github.io/sayooshi/dudas.png"
+     align="left" width="180" height="180"
+     style="object-fit:cover; border-radius:10px; margin-left:10px;">
+<h3>Dudas</h3>
+<p>Tradução e revisão.</p>
+     <div style="clear:both;"></div>
+</div>
+
+<div>
+<img src="https://kikachangames.github.io/sayooshi/alex.png"
+    align="left" width="180" height="180"
+    style="object-fit:cover; border-radius:10px; margin-left:10px;">
+<h3>Alex</h3>
+<p>Tradução e revisão.</p>
+    <div style="clear:both;"></div>
+</div>
+
+<div>
     <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png"
     align="left" width="180" height="180"
     style="object-fit:cover; border-radius:10px; margin-left:10px;">
+<h3>Ceuipsolon</h3>
+<p>Game hacking, revisão e edição de imagens.</p>
     <div style="clear:both;"></div>
 </div>
 <br/>
