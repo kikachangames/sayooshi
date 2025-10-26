@@ -42,49 +42,36 @@
 
 <h3>Equipe</h3>
 
-<style>
-img {
-  border: none !important;
-  outline: none !important;
-  box-shadow: none !important;
-}
-div.equipe {
-  overflow: hidden;
-  margin-bottom: 20px;
-}
-div.equipe img {
-  float: left;
-  margin-right: 15px;
-  border-radius: 10px;
-  object-fit: cover;
-}
-div.equipe h3 {
-  margin-top: 0;
-}
-</style>
-
-<div class="equipe">
-  <img src="https://kikachangames.github.io/air/manolo.png" width="180" height="180">
-  <h3>Manolo-chan</h3>
-  <p>Líder de projeto, programação e edição de imagens.</p>
+<div style="overflow:hidden; margin-bottom:25px;">
+  <img src="https://kikachangames.github.io/air/manolo.png"
+       width="160" height="160"
+       style="float:left; margin-right:15px; border-radius:12px; object-fit:cover; border:none;">
+  <h4 style="margin:0;">Manolo-chan</h4>
+  <p style="margin-top:6px;">Líder de projeto, programação e edição de imagens.</p>
 </div>
 
-<div class="equipe">
-  <img src="https://kikachangames.github.io/sayooshi/dudas.png" width="180" height="180">
-  <h3>Dudas</h3>
-  <p>Tradução e revisão.</p>
+<div style="overflow:hidden; margin-bottom:25px;">
+  <img src="https://kikachangames.github.io/sayooshi/dudas.png"
+       width="160" height="160"
+       style="float:left; margin-right:15px; border-radius:12px; object-fit:cover; border:none;">
+  <h4 style="margin:0;">Dudas</h4>
+  <p style="margin-top:6px;">Tradução e revisão.</p>
 </div>
 
-<div class="equipe">
-  <img src="https://kikachangames.github.io/sayooshi/alex.png" width="180" height="180">
-  <h3>Alex</h3>
-  <p>Tradução e revisão.</p>
+<div style="overflow:hidden; margin-bottom:25px;">
+  <img src="https://kikachangames.github.io/sayooshi/alex.png"
+       width="160" height="160"
+       style="float:left; margin-right:15px; border-radius:12px; object-fit:cover; border:none;">
+  <h4 style="margin:0;">Alex</h4>
+  <p style="margin-top:6px;">Tradução e revisão.</p>
 </div>
 
-<div class="equipe">
-  <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png" width="180" height="180">
-  <h3>Ceuipsolon</h3>
-  <p>Game hacking, revisão e edição de imagens.</p>
+<div style="overflow:hidden; margin-bottom:25px;">
+  <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png"
+       width="160" height="160"
+       style="float:left; margin-right:15px; border-radius:12px; object-fit:cover; border:none;">
+  <h4 style="margin:0;">Ceuipsolon</h4>
+  <p style="margin-top:6px;">Game hacking, revisão e edição de imagens.</p>
 </div>
 
 <br/>
