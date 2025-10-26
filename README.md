@@ -67,7 +67,7 @@
 </div>
 
 <div style="overflow:hidden; margin-bottom:25px;">
-  <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png"
+  <img src="https://kikachangames.github.io/sayooshi/ceuipsolon.png"
        width="160" height="160"
        style="float:left; margin-right:15px; border-radius:12px; object-fit:cover; border:none;">
   <h4 style="margin:0;">Ceuipsolon</h4>
