@@ -38,6 +38,7 @@
 <img src="https://kikachangames.github.io/sayooshi/03.png">
 <br/>
 <br/>
+<br/>
 
 <h3>Equipe</h3>
 
@@ -76,6 +77,7 @@
 <p>Game hacking, revisão e edição de imagens.</p>
     <div style="clear:both;"></div>
 </div>
+<br/>
 <br/>
 
 <h3>Agradecimentos</h3>
