@@ -32,7 +32,7 @@
 <p>25/12/2025.</p>
 <br/>
 
-<h3>Imagens</h3>
+
 <img src="https://kikachangames.github.io/sayooshi/01.png">
 <img src="https://kikachangames.github.io/sayooshi/02.png"><br/>
 <img src="https://kikachangames.github.io/sayooshi/03.png">
@@ -74,6 +74,21 @@
   <p style="margin-top:6px;">Game hacking, revisão e edição de imagens.</p>
 </div>
 
+<div style="overflow:hidden; margin-bottom:25px;">
+  <img src="https://kikachangames.github.io/moon/kazuki.png"
+       width="160" height="160"
+       style="float:left; margin-right:15px; border-radius:12px; object-fit:cover; border:none;">
+  <h4 style="margin:0;">Kazuki Minoru</h4>
+  <p style="margin-top:6px;">Revisão e Quality Check.</p>
+</div>
+
+<div style="overflow:hidden; margin-bottom:25px;">
+  <img src="https://kikachangames.github.io/projetos/img/crynvalen.png"
+       width="160" height="160"
+       style="float:left; margin-right:15px; border-radius:12px; object-fit:cover; border:none;">
+  <h4 style="margin:0;">Crynvalen</h4>
+  <p style="margin-top:6px;">Edição de imagens.</p>
+</div>
 <br/>
 <br/>
 
