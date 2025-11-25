@@ -10,7 +10,7 @@
 <br/>
 
 <h3>Sinopse</h3>
-<p>Hirosuke Hitomi é um professor estagiário trabalhando em uma escola feminina. Finalizar suas tarefas diárias e virar um professor efetivo é o seu objetivo. No entanto, sua mente começa a se cansar. Inquietação e pesadelos começam a atacá-lo. Uma fobia social começa a crescer e, lentamente, surge um misto de medo e desejo pelas garotas que ele encontra depois das aulas. Mesmo após o término do seu dia de trabalho, ele não consegue parar de vagar pela escola.</p>
+<p>Hitomi Hirosuke é um professor estagiário trabalhando em uma escola feminina. Finalizar suas tarefas diárias e virar um professor efetivo é o seu objetivo. No entanto, sua mente começa a se cansar. Inquietação e pesadelos começam a atacá-lo. Uma fobia social começa a crescer e, lentamente, surge um misto de medo e desejo pelas garotas que ele encontra depois das aulas. Mesmo após o término do seu dia de trabalho, ele não consegue parar de vagar pela escola.</p>
 <br/>
 
 <h3>Progresso da tradução (171/171 - 100%):</h3>
@@ -29,7 +29,7 @@
 </ul>
 <br/>
 <h3>Lançamento</h3>
-<p>??/??/2025.</p>
+<p>25/12/2025.</p>
 <br/>
 
 <h3>Imagens</h3>
