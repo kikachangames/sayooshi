@@ -34,7 +34,7 @@
 
 
 <img src="https://kikachangames.github.io/sayooshi/01.png">
-<img src="https://kikachangames.github.io/sayooshi/02.png"><br/>
+<img src="https://kikachangames.github.io/sayooshi/02.png">
 <img src="https://kikachangames.github.io/sayooshi/03.png">
 <br/>
 <br/>
