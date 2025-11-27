@@ -25,7 +25,7 @@
     <li>Dia 8: 100%</li>
     <li>Dia 9: 100%</li>
     <li>Dia 10: 100%</li>
-    <li>Dia 11: 1000%</li>
+    <li>Dia 11: 100%</li>
 </ul>
 <br/>
 <h3>Lançamento</h3>
