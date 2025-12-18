@@ -71,7 +71,7 @@
        width="160" height="160"
        style="float:left; margin-right:15px; border-radius:12px; object-fit:cover; border:none;">
   <h4 style="margin:0;">Ceuipsolon</h4>
-  <p style="margin-top:6px;">Game hacking e edição de imagens.</p>
+  <p style="margin-top:6px;">Game hacking e teaser.</p>
 </div>
 
 <div style="overflow:hidden; margin-bottom:25px;">
