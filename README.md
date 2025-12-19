@@ -33,9 +33,9 @@
 <br/>
 
 
-<img src="https://kikachangames.github.io/sayooshi/01.png">
-<img src="https://kikachangames.github.io/sayooshi/02.png">
-<img src="https://kikachangames.github.io/sayooshi/03.png">
+<img src="https://kikachangames.github.io/sayooshi/img/newprint1.png">
+<img src="https://kikachangames.github.io/sayooshi/img/newprint2.png">
+<img src="https://kikachangames.github.io/sayooshi/img/newprint3.png">
 <br/>
 <br/>
 <br/>
