@@ -17,7 +17,7 @@
    
 <!-- Horror -->
   <img
-    src="https://img.shields.io/badge/horror-111111?style=flat&logo=ghost&logoColor=white"
+    src="https://img.shields.io/badge/horror-111111?style=flat&"
     alt="Horror">
 
 <!-- Utsuge -->
