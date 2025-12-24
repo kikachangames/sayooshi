@@ -37,7 +37,7 @@
 <p>Hirosuke Hitomi é um professor estagiário trabalhando em uma escola feminina. Finalizar suas tarefas diárias e virar um professor efetivo é o seu objetivo. No entanto, sua mente começa a se cansar. Inquietação e pesadelos começam a atacá-lo. Uma fobia social começa a crescer e, lentamente, surge um misto de medo e desejo pelas garotas que ele encontra depois das aulas. Mesmo após o término do seu dia de trabalho, ele não consegue parar de vagar pela escola.</p>
 <br/>
 
-<h3>Progresso da tradução (171/171 - 100%):</h3>
+<h3>Progresso da tradução (171/171 - 100%)</h3>
 <ul>
     <li>Dia 1: 100%</li>
     <li>Dia 2: 100%</li>
@@ -125,8 +125,10 @@
 <p><a href="https://www.youtube.com/@Palpitando_123" target="_blank">Palpitando</a></p>
 <p><a href="https://vnx.uvnworks.com/" target="_blank">VNX+</a></p>
 <br/>
-<h3>Download</h3>
-<img src="https://kikachangames.github.io/sayooshi/tbl.jpg">
+
+<h3>Download (links disponíveis a partir de 25/12/2025)</h3>
+<img src="https://kikachangames.github.io/sayooshi/img/bt-patch-pc.png">
+<img src="https://kikachangames.github.io/sayooshi/img/bt-patch-pc.png">
 
 <br/>
 <br/>
