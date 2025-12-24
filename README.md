@@ -4,27 +4,22 @@
   <img
     src="https://img.shields.io/badge/+18-darkred?style=flat&logo=warning&logoColor=white"
     alt="Conteúdo +18">
-  
  <!-- Denpa -->
   <img
     src="https://img.shields.io/badge/denpa-2f3e46?style=flat&logo=radio&logoColor=white"
     alt="Denpa">
-    
 <!-- Eroguro -->
   <img
     src="https://img.shields.io/badge/eroguro-4b0000?style=flat&logo=skull&logoColor=white"
     alt="Eroguro">
-   
 <!-- Horror -->
   <img
     src="https://img.shields.io/badge/horror-111111?style=flat&"
     alt="Horror">
-
 <!-- Utsuge -->
   <img
     src="https://img.shields.io/badge/utsuge-5c4d7d?style=flat&logo=teardrop&logoColor=white"
     alt="Utsuge">
-  
 </div>
 
 ⚠️ AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.
