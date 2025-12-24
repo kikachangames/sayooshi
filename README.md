@@ -2,27 +2,27 @@
 <div class="tags-badges">
   <!-- +18 -->
   <img
-    src="https://img.shields.io/badge/+18-conteúdo%20adulto-darkred?style=flat&logo=warning&logoColor=white"
+    src="https://img.shields.io/badge/+18-darkred?style=flat&logo=warning&logoColor=white"
     alt="Conteúdo +18">
 
   <!-- Utsuge -->
   <img
-    src="https://img.shields.io/badge/utsuge-tragédia%20emocional-5c4d7d?style=flat&logo=teardrop&logoColor=white"
+    src="https://img.shields.io/badge/utsuge-5c4d7d?style=flat&logo=teardrop&logoColor=white"
     alt="Utsuge">
 
   <!-- Eroguro -->
   <img
-    src="https://img.shields.io/badge/eroguro-erótico%20%26%20grotesco-4b0000?style=flat&logo=skull&logoColor=white"
+    src="https://img.shields.io/badge/eroguro-4b0000?style=flat&logo=skull&logoColor=white"
     alt="Eroguro">
 
   <!-- Horror -->
   <img
-    src="https://img.shields.io/badge/horror-terror%20psicológico-111111?style=flat&logo=ghost&logoColor=white"
+    src="https://img.shields.io/badge/horror-111111?style=flat&logo=ghost&logoColor=white"
     alt="Horror">
 
   <!-- Denpa -->
   <img
-    src="https://img.shields.io/badge/denpa-desconexão%20mental-2f3e46?style=flat&logo=radio&logoColor=white"
+    src="https://img.shields.io/badge/denpa-2f3e46?style=flat&logo=radio&logoColor=white"
     alt="Denpa">
 </div>
 
