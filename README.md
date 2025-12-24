@@ -128,7 +128,7 @@
 
 <h3>Download (links disponíveis a partir de 25/12/2025)</h3>
 <img src="https://kikachangames.github.io/sayooshi/img/bt-patch-pc.png">
-<img src="https://kikachangames.github.io/sayooshi/img/bt-patch-pc.png">
+<img src="https://kikachangames.github.io/sayooshi/img/bt-patch-android.png">
 
 <br/>
 <br/>
