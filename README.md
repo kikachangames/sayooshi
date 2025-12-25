@@ -126,7 +126,12 @@
 <p><a href="https://vnx.uvnworks.com/" target="_blank">VNX+</a></p>
 <br/>
 
-<h3>Download (links disponíveis a partir de 25/12/2025)</h3>
+<h3>Download</h3>
+
+Atenção: Certifique-se de ter uma cópia do jogo instalada antes de aplicar o patch.
+PC: Execute o instalador e siga as instruções.
+Android: Siga as instruções do tutorial, incluído no patch.
+
 <img src="https://kikachangames.github.io/sayooshi/img/bt-patch-pc.png">
 <img src="https://kikachangames.github.io/sayooshi/img/bt-patch-android.png">
 
