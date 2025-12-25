@@ -132,8 +132,8 @@
 <p>PC: Execute o instalador e siga as instruções.</p>
 <p>Android: Siga as instruções do tutorial, incluído no patch.</p>
 
-<img src="https://kikachangames.github.io/sayooshi/img/bt-patch-pc.png">
-<img src="https://kikachangames.github.io/sayooshi/img/bt-patch-android.png">
+<href="https://github.com/kikachangames/sayooshi/releases/download/v.1.0/Sayooshi-Patch-PT-BR.exe"><img src="https://kikachangames.github.io/sayooshi/img/bt-patch-pc.png"></a>
+<href="https://github.com/kikachangames/sayooshi/releases/download/v.1.0-a/sayooshi-patch-pt-br-1.0-android.zip"><img src="https://kikachangames.github.io/sayooshi/img/bt-patch-android.png"></a>
 
 <br/>
 <br/>
