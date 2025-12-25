@@ -128,9 +128,9 @@
 
 <h3>Download</h3>
 
-Atenção: Certifique-se de ter uma cópia do jogo instalada antes de aplicar o patch.
-PC: Execute o instalador e siga as instruções.
-Android: Siga as instruções do tutorial, incluído no patch.
+<p>Atenção: Certifique-se de ter uma cópia do jogo instalada antes de aplicar o patch.</p>
+<p>PC: Execute o instalador e siga as instruções.</p>
+<p>Android: Siga as instruções do tutorial, incluído no patch.</p>
 
 <img src="https://kikachangames.github.io/sayooshi/img/bt-patch-pc.png">
 <img src="https://kikachangames.github.io/sayooshi/img/bt-patch-android.png">
